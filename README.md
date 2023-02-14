@@ -1,7 +1,12 @@
 # hogwarts-legacy-pause-game
+
+As a parent pausing a game is a must have for me.
+
 Since Hogwarts Legacy does not allow to pause the game, this is a work around to enable players to pause the game. This is a very minimal hacked approach, windows system tools are used to pause the game.
 This tool can be used in two different ways, start this program using the command line, while in game alt+tab to the command line and press `p`.
 Another way to use it, is to access the url the program gives you when you start the program, it can be accessed from any device on your local network, this enables you for example to pause the game using your mobile phone.
+
+If this helped you in any way and you would like to buy me a cup of ☕, [you can donate here](https://www.paypal.com/donate/?hosted_button_id=M29WRLEENT5MA).
 
 **Notes:**
 
