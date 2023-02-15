@@ -12,7 +12,7 @@ If this helped you in any way and you would like to buy me a cup of ☕, [you ca
 
 **Notes:**
 
-* This works during cutscenes
+* This works for script talking, but does not work for cutscenes (although the game gets paused, the game will skip forward the same amount of time you've paused when you resume)
 * Use at your own risk (do not start multiple programs)
 * Known bug: if you pause the game and close this tool, you might not be able to resume the game
 
